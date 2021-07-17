@@ -1,19 +1,13 @@
 # frontrun-bot
-Frontrun Bot for Uniswap &amp; Pancakeswap v2
+SWAPFUCK - Frontrun Bot for Uniswap &amp; Pancakeswap v2
 
 
 **someone contacted me, enzypt change file extension, please rename/change "zip" to "tar.gz"
 
 
-**NEW Updated CLI v1.4**: https://enzypt.io/hR6al8M5yGZeUxR7sTpuUyQw2gvJyhsP/oifZf_vxMCiMzvogbDHdZCLzv_6rOlXwf7WdNNr5HGU
+**NEW Updated CLI v1.5** (instant download): https://enzypt.io/uWMTy7hIH7KHlkvAAZYx5rlbsP7mJ0No/LBeY2XIfwzWmPolENDpooLtE1hky2A0jNVBwE29bvls
 
-
-
-# How to direct buy
-
-sending 8.001 BNB to ***0xf2E8D3228cd5d0B6ee78880cD74aC89621948391***
-
-you will get incoming tx with download link from random contract
+please disable adblock before paying
 
 ![image](https://user-images.githubusercontent.com/57033929/118358864-fe45ff00-b5aa-11eb-8855-ad40cdbd3400.png)
 
